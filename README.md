@@ -3,7 +3,7 @@ Funkcje poszczególnych skryptów
 data.py:
     + Listing obecnych plików na poszczególnych partycjach
     Planowane funkcjonalności:
-        + Ekstrakcja wybranych, ciekawych plików
+        + Listowanie wybranych, ciekawych plików bazując na rozszczerzeniach czy słowach kluczach
 metadata.py:
     + Pozyskiwanie metadanych z obrazu - struktura, partycje
 main.py:
